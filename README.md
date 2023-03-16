@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bonnybabukachappilly
-- 👀 I’m interested in working with *PYTHON*
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in working with *ROBOTICS*, *PYTHON*
+- 🌱 I’m currently learning ROS.
 - 📫 Reach me at bonnybabukachappilly@gmail.com
 
 <!---
